@@ -6,6 +6,7 @@ This is a web based application developed for .......
 
 
 *Project Link* - https://cricbuzz.azurewebsites.net
+
 *Projrct Demo Video Link - https://youtu.be/AGLT1Lj92OQ
 
 ## Features and Functionalities 😃
